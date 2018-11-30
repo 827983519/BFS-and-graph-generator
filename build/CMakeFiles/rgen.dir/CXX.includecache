@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wade/Downloads/a3-ece650/main.cpp
+rgen.h
+/home/wade/Downloads/a3-ece650/rgen.h
+
+/home/wade/Downloads/a3-ece650/rgen.cpp
+rgen.h
+/home/wade/Downloads/a3-ece650/rgen.h
+unistd.h
+-
+
+/home/wade/Downloads/a3-ece650/rgen.h
+signal.h
+-
+iostream
+-
+unistd.h
+-
+fstream
+-
+

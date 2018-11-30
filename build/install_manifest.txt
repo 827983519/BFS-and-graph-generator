@@ -1,0 +1,5 @@
+/home/wade/Downloads/a3-ece650/build/run/bin/a1-ece650.py
+/home/wade/Downloads/a3-ece650/build/run/bin/ag_intersection.py
+/home/wade/Downloads/a3-ece650/build/run/bin/rgen
+/home/wade/Downloads/a3-ece650/build/run/bin/a2-ece650
+/home/wade/Downloads/a3-ece650/build/run/bin/a3-ece650
