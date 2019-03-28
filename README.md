@@ -1,4 +1,4 @@
-# assignment3
+# BFS + Graph generator
 This is a multiprocess program. 
 ----
 
